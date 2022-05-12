@@ -1,8 +1,8 @@
 // Copyright 2022 Your Name <your_email>
 
 
-#ifndef LAB_07_HTTP_SERVER_SUGGESTIONS_HPP
-#define LAB_07_HTTP_SERVER_SUGGESTIONS_HPP
+#ifndef INCLUDE_SUGGESTIONS_HPP_
+#define INCLUDE_SUGGESTIONS_HPP_
 
 
 #include <iostream>

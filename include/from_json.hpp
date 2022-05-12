@@ -1,8 +1,8 @@
 // Copyright 2022 Your Name <your_email>
 
 
-#ifndef LAB_07_HTTP_SERVER_FROM_JSON_HPP
-#define LAB_07_HTTP_SERVER_FROM_JSON_HPP
+#ifndef INCLUDE_FROM_JSON_HPP_
+#define INCLUDE_FROM_JSON_HPP_
 
 #include <iostream>
 #include <string>
