@@ -21,4 +21,4 @@ class LoadFromFile{
   json _collection; //коллекция
   std::string _path; //путь до файла с коллекцией
 };
-#endif  // LAB_07_HTTP_SERVER_FROM_JSON_HPP
+#endif  // INCLUDE_FROM_JSON_HPP_

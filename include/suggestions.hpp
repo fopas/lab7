@@ -24,4 +24,4 @@ class Suggestions{
   json sorted_collection; //выданные пользователю предложения
 };
 
-#endif  // LAB_07_HTTP_SERVER_SUGGESTIONS_HPP
+#endif  // INCLUDE_SUGGESTIONS_HPP_
